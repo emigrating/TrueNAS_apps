@@ -1,0 +1,9 @@
+apiVersion: v2
+name: beszel
+description: A TrueNAS implementation of Beszel (Hub and Agent).
+categories:
+  - Monitoring
+icon_url: https://example.com/path/to/your/icon.png
+tags:
+  - beszel
+  - monitoring
