@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: AppTemplate
+metadata:
+  name: immich
+  description: Immich template for TrueNAS
+  categories:
+    - Custom
